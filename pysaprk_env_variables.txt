@@ -1,0 +1,10 @@
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export JRE_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre
+
+export SPARK_HOME="/home/vamshidhar/spark/spark-2.2.1-bin-hadoop2.6"
+export PYTHONPATH="$SPARK_HOME/python"
+export PYSPARK_DRIVER_PYTHON="jupyter"
+export PYSPARK_DRIVER_PYTHON_OPTS="notebook"
+export PYSPARK_PYTHON="~/anaconda2/bin/python2"
+export PATH=$SPARK_HOME:$PATH:~/.local/bin:$JAVA_HOME/bin:$JAVA_HOME/jre/bin
+
