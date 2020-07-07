@@ -1,3 +1,8 @@
+#Download saprk file from here.
+https://drive.google.com/drive/u/0/folders/1tcul0R0hFdRJza6fdOi3e6fDiTL1vIZ3
+
+
+#Paste below in bashrc file: ["by typing this cmd in terminal" vim ~/.bashrc]
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 export JRE_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre
 
